@@ -102,7 +102,7 @@ TRRS ケーブルで左手側と右手側をつなぎ、PC に接続してくだ
 
 [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases/) を使用してファームウェアの書き込みを試して下さい。
 
-PC とキーボードを接続した状態で QMK Toolbox を起動します。「Local file」にファームウェア [potato38_rev1_vial.hex](firmware/potato38_rev1_vial.hex) を指定した状態で、キーボードのリセットスイッチを押してください。ファームウェアが書込み可能な状態になると、「Flash」ボタンが有効化されるので、押下して書き込みます。左手側、右手側、どちらも書き込んでください。
+PC とキーボードを接続した状態で QMK Toolbox を起動します。「Local file」にファームウェア [v1/potato38_vial.hex](firmware/v1/potato38_vial.hex) を指定した状態で、キーボードのリセットスイッチを押してください。ファームウェアが書込み可能な状態になると、「Flash」ボタンが有効化されるので、押下して書き込みます。左手側、右手側、どちらも書き込んでください。
 
 ## 連絡先
 
